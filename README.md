@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Codegal23
-- 👀 I’m interested in creating web applications in html,css
+- 👀 I’m interested in creating responsive web applications in html,css
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me Irenadaniels1234@gmail.com
